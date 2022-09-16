@@ -1,0 +1,17 @@
+C:\Users\924028\source\repos\P3\P3\bin\Debug\netcoreapp3.1\P3.exe
+C:\Users\924028\source\repos\P3\P3\bin\Debug\netcoreapp3.1\P3.deps.json
+C:\Users\924028\source\repos\P3\P3\bin\Debug\netcoreapp3.1\P3.runtimeconfig.json
+C:\Users\924028\source\repos\P3\P3\bin\Debug\netcoreapp3.1\P3.runtimeconfig.dev.json
+C:\Users\924028\source\repos\P3\P3\bin\Debug\netcoreapp3.1\P3.dll
+C:\Users\924028\source\repos\P3\P3\bin\Debug\netcoreapp3.1\P3.pdb
+C:\Users\924028\source\repos\P3\P3\obj\Debug\netcoreapp3.1\P3.csproj.AssemblyReference.cache
+C:\Users\924028\source\repos\P3\P3\obj\Debug\netcoreapp3.1\P3.AssemblyInfoInputs.cache
+C:\Users\924028\source\repos\P3\P3\obj\Debug\netcoreapp3.1\P3.AssemblyInfo.cs
+C:\Users\924028\source\repos\P3\P3\obj\Debug\netcoreapp3.1\P3.csproj.CoreCompileInputs.cache
+C:\Users\924028\source\repos\P3\P3\obj\Debug\netcoreapp3.1\P3.dll
+C:\Users\924028\source\repos\P3\P3\obj\Debug\netcoreapp3.1\P3.pdb
+C:\Users\924028\source\repos\P3\P3\obj\Debug\netcoreapp3.1\P3.genruntimeconfig.cache
+C:\Users\924028\source\repos\P3\P3\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\924028\source\repos\P3\P3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\924028\source\repos\P3\P3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\924028\source\repos\P3\P3\obj\Debug\netcoreapp3.1\P3.csproj.CopyComplete

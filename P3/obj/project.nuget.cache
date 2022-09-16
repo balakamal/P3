@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GoSGTtT1zCfPRRE5pB22Q6x7Rkfczc2dLdpMedqHK9Y2HlcnsEpMOkaVygHruF3u2jCoxuJBjIQEJ2nV0HKKpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\924028\\source\\repos\\P3\\P3\\P3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\924028\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\924028\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
